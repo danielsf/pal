@@ -41,6 +41,7 @@ palAop.c \
 palAoppa.c \
 palAoppat.c \
 palAopqk.c \
+palAopqkBatch.c \
 palAtmdsp.c \
 palCaldj.c \
 palDafin.c \
